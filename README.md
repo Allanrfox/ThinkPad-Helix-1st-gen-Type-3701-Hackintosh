@@ -22,9 +22,13 @@ I rescued this thing from an e-waste facility, came without a charger, and the s
 
 Credits
 
-Acidanthera for Opencore and the kexts required for this to work
-Rehabman for the DSDT patching guide, aswell as the patches themselves
-Wolfie for showing me da wae on DSDT patching
-Dortania for Opencore Legacy Patcher
+@Acidanthera for Opencore and the kexts required for this to work
+
+@Rehabman for the DSDT patching guide, aswell as the patches themselves
+
+@Wolfie for showing me da wae on DSDT patching
+
+@Dortania for Opencore Legacy Patcher
+
 EduCovas for HD4000 patches 
 
