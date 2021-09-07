@@ -19,3 +19,12 @@ I rescued this thing from an e-waste facility, came without a charger, and the s
 ![IMG_2290](https://user-images.githubusercontent.com/76212533/132410536-d33f82f0-ea2b-4953-b93f-5f179d7ba565.JPG)
 (Machine Running big sur with working battery reporting)
 
+
+Credits
+
+Acidanthera for Opencore and the kexts required for this to work
+Rehabman for the DSDT patching guide, aswell as the patches themselves
+Wolfie for showing me da wae on DSDT patching
+Dortania for Opencore Legacy Patcher
+EduCovas for HD4000 patches 
+
