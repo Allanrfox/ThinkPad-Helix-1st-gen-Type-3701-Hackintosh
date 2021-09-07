@@ -20,7 +20,7 @@ I rescued this thing from an e-waste facility, came without a charger, and the s
 (Machine Running big sur with working battery reporting)
 
 
-Credits
+# Credits
 
 Acidanthera for Opencore and the kexts required for this to work
 
