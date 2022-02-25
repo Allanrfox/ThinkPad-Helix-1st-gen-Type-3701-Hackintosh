@@ -1,4 +1,7 @@
-# Thinkpad Helix Hackitntosh
+# Thinkpad Helix Hackintosh
+
+Disclaimer: I have sold this hardware meaning I there is no longer a need to update it, have fun updating Opencore yourself
+
 
 ![Capture d’écran 2021-09-07 à 2 51 47 PM](https://user-images.githubusercontent.com/76212533/132409347-6f81b2fe-140f-4830-9ad9-5a9b480e361f.png)
 
